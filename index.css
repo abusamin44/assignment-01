@@ -181,3 +181,15 @@ header .hero {
     margin: 100px auto;
     align-items: center;
 }
+
+.footer ul li a{
+    text-decoration: none;
+    font-size: 19px;
+ 
+}
+.footer ul li a:hover{
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+  
+}
