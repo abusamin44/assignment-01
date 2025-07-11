@@ -185,6 +185,7 @@ header .hero {
 .footer ul li a{
     text-decoration: none;
     font-size: 19px;
+    color: rgb(114, 107, 107);
  
 }
 .footer ul li a:hover{
